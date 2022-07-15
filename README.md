@@ -7,4 +7,4 @@
 <a href="http://unisonshift.amusecraft.com/products/project21/main.htm" title="PCゲーム『君の名残は静かに揺れて』" target="_blank"><img src="http://unisonshift.amusecraft.com/products/project21/banner/tate/shiori.jpg" width="150" height="650" border="0" alt="『君の名残は静かに揺れて』応援中" /></a>
 <a href="http://www.h-comb.biz/ent/poco/" target="_blank"><img src="http://www.h-comb.biz/data/poco/banner/ban_l_sak.jpg" width="120" height="600" border="0" alt="ALcot ハニカム 『春季限定ポコ・ア・ポコ!』 応援中！"></a>
 <a href="https://supersonico.jp/sonicomi/enter_h600_07.php" title="PCゲーム『ソニコミ』特設" target="_blank" rel="noopener"><img src="https://supersonico.jp/sonicomi/download/banner/bnr_sonicomi07_h600.jpg" alt="すーぱーそに子初主演ゲーム『ソニコミ』を応援しています" width="150" height="600" border="0" /></a>
-
+![bot_2](https://user-images.githubusercontent.com/66170519/179257285-f195f510-61a2-4349-97ce-b59fcb0529a5.gif)
