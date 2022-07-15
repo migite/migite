@@ -1,4 +1,4 @@
-<a href="[https://www.kobebussan.co.jp/business/img/gs_logo.png?1223](https://www.gyomusuper.jp/)" title="業無スゥゥゥパー" target="_blank" rel="noopener"><img src="https://www.kobebussan.co.jp/business/img/gs_logo.png?1223" alt="すーぱーそに子初主演ゲーム『ソニコミ』を応援しています" width="407" height="107" border="0" /></a>
+<a href="https://www.gyomusuper.jp/" title="業無スゥゥゥパー" target="_blank" rel="noopener"><img src="https://www.kobebussan.co.jp/business/img/gs_logo.png?1223" alt="すーぱーそに子初主演ゲーム『ソニコミ』を応援しています" width="407" height="107" border="0" /></a>
 <a href="https://iwakura-kanko.com/goods.php" title="いわくらだいすきい～わくん" target="_blank" rel="noopener"><img src="https://iwakura-kanko.com/images_banner/goods_side.png" alt="すーぱーそに子初主演ゲーム『ソニコミ』を応援しています" width="245" height="245" border="0" /></a>
 
 ![6nh8re-4](https://user-images.githubusercontent.com/66170519/179247763-010195b2-89f7-4c64-9176-e73f3235d072.png)
