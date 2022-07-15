@@ -5,5 +5,5 @@
 ![140_mememe](https://user-images.githubusercontent.com/66170519/179249012-e15c2e88-a613-48cd-9c40-90d357e829c4.jpg)
 ![shiori](https://user-images.githubusercontent.com/66170519/179250767-b0f82e63-2e43-4b30-b7ae-2fad20b3ace8.jpg)
 ![ban_l_sak](https://user-images.githubusercontent.com/66170519/179251384-16c4b8cc-1fcd-4a43-b0f5-72e1e9ec15d2.jpg)
-![bnr_sonicomi07_h600](https://user-images.githubusercontent.com/66170519/179251610-f533dc29-3925-425e-9613-0b053a002ee0.jpg)
+<a href="https://supersonico.jp/sonicomi/enter_h600_07.php" title="PCゲーム『ソニコミ』特設" target="_blank" rel="noopener"><img src="https://supersonico.jp/sonicomi/download/banner/bnr_sonicomi07_h600.jpg" alt="すーぱーそに子初主演ゲーム『ソニコミ』を応援しています" width="150" height="600" border="0" /></a>
 
