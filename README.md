@@ -1,1 +1,1 @@
-![ste0y9](https://user-images.githubusercontent.com/66170519/179246786-ad0072fd-7418-4a8c-adcb-fb86d0deb5e4.png)
+[url=https://valid.x86.fr/ste0y9][img]https://valid.x86.fr/cache/banner/ste0y9-6.png[/img][/url]
