@@ -5,3 +5,4 @@
 ![140_mememe](https://user-images.githubusercontent.com/66170519/179249012-e15c2e88-a613-48cd-9c40-90d357e829c4.jpg)
 ![shiori](https://user-images.githubusercontent.com/66170519/179250767-b0f82e63-2e43-4b30-b7ae-2fad20b3ace8.jpg)
 ![ban_l_sak](https://user-images.githubusercontent.com/66170519/179251384-16c4b8cc-1fcd-4a43-b0f5-72e1e9ec15d2.jpg)
+![bnr_sonicomi07_h600](https://user-images.githubusercontent.com/66170519/179251610-f533dc29-3925-425e-9613-0b053a002ee0.jpg)
