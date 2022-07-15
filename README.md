@@ -1,1 +1,3 @@
-[url=https://valid.x86.fr/ste0y9][img]https://valid.x86.fr/cache/banner/ste0y9-6.png[/img][/url]
+Laptop
+![ste0y9-5](https://user-images.githubusercontent.com/66170519/179247134-93380fa3-610a-498c-b9e9-a711deda3a95.png)
+
