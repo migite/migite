@@ -1,0 +1,37 @@
+name: run script
+
+on:
+  # [ workflow_dispatch ]
+   schedule:
+     - cron: '0 2 * * *'
+
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+      
+      - name: Run script
+        run: |
+          pip install beautifulsoup4
+          python tamade_pdf.py
+
+      - name: diff
+        id: diff
+        run: |
+          git add -N .
+          git diff --name-only --exit-code
+        continue-on-error: true
+
+      - name: git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto generated"
+          git push
+        if: steps.diff.outcome == 'failure'
